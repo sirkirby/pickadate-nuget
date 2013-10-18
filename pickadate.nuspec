@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>pickadate</id>
+        <version>3.3.0</version>
+        <title>pickadate js</title>
+        <authors>Amsul</authors>
+        <owners>sirkirby</owners>
+        <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>http://amsul.ca/pickadate.js/</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>The mobile-friendly, responsive, and lightweight jQuery date &amp; time input picker. Issues? Please post them here https://github.com/sirkirby/pickadate-nuget/issues</description>
+        <releaseNotes>https://github.com/amsul/pickadate.js/blob/gh-pages/CHANGELOG.md</releaseNotes>
+        <tags>jquery date time picker input</tags>
+        <dependencies>
+            <dependency id="jQuery" version="1.10.2" />
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="themes\classic.css" target="content\Scripts\pickadate\themes\classic.css" />
+        <file src="themes\classic.date.css" target="content\Scripts\pickadate\themes\classic.date.css" />
+        <file src="themes\classic.time.css" target="content\Scripts\pickadate\themes\classic.time.css" />
+        <file src="themes\default.css" target="content\Scripts\pickadate\themes\default.css" />
+        <file src="themes\default.date.css" target="content\Scripts\pickadate\themes\default.date.css" />
+        <file src="themes\default.time.css" target="content\Scripts\pickadate\themes\default.time.css" />
+        <file src="themes\rtl.css" target="content\Scripts\pickadate\themes\rtl.css" />
+        <file src="translations\ar.js" target="content\Scripts\pickadate\translations\ar.js" />
+        <file src="translations\bg_BG.js" target="content\Scripts\pickadate\translations\bg_BG.js" />
+        <file src="translations\bs_BA.js" target="content\Scripts\pickadate\translations\bs_BA.js" />
+        <file src="translations\ca_ES.js" target="content\Scripts\pickadate\translations\ca_ES.js" />
+        <file src="translations\cs_CZ.js" target="content\Scripts\pickadate\translations\cs_CZ.js" />
+        <file src="translations\da_DK.js" target="content\Scripts\pickadate\translations\da_DK.js" />
+        <file src="translations\de_DE.js" target="content\Scripts\pickadate\translations\de_DE.js" />
+        <file src="translations\el_GR.js" target="content\Scripts\pickadate\translations\el_GR.js" />
+        <file src="translations\es_ES.js" target="content\Scripts\pickadate\translations\es_ES.js" />
+        <file src="translations\et_EE.js" target="content\Scripts\pickadate\translations\et_EE.js" />
+        <file src="translations\eu_ES.js" target="content\Scripts\pickadate\translations\eu_ES.js" />
+        <file src="translations\fi_FI.js" target="content\Scripts\pickadate\translations\fi_FI.js" />
+        <file src="translations\fr_FR.js" target="content\Scripts\pickadate\translations\fr_FR.js" />
+        <file src="translations\he_IL.js" target="content\Scripts\pickadate\translations\he_IL.js" />
+        <file src="translations\hr_HR.js" target="content\Scripts\pickadate\translations\hr_HR.js" />
+        <file src="translations\hu_HU.js" target="content\Scripts\pickadate\translations\hu_HU.js" />
+        <file src="translations\id_ID.js" target="content\Scripts\pickadate\translations\id_ID.js" />
+        <file src="translations\it_IT.js" target="content\Scripts\pickadate\translations\it_IT.js" />
+        <file src="translations\ja_JP.js" target="content\Scripts\pickadate\translations\ja_JP.js" />
+        <file src="translations\ko_KR.js" target="content\Scripts\pickadate\translations\ko_KR.js" />
+        <file src="translations\nl_NL.js" target="content\Scripts\pickadate\translations\nl_NL.js" />
+        <file src="translations\no_NO.js" target="content\Scripts\pickadate\translations\no_NO.js" />
+        <file src="translations\pl_PL.js" target="content\Scripts\pickadate\translations\pl_PL.js" />
+        <file src="translations\pt_BR.js" target="content\Scripts\pickadate\translations\pt_BR.js" />
+        <file src="translations\pt_PT.js" target="content\Scripts\pickadate\translations\pt_PT.js" />
+        <file src="translations\ro_RO.js" target="content\Scripts\pickadate\translations\ro_RO.js" />
+        <file src="translations\ru_RU.js" target="content\Scripts\pickadate\translations\ru_RU.js" />
+        <file src="translations\sk_SK.js" target="content\Scripts\pickadate\translations\sk_SK.js" />
+        <file src="translations\sv_SE.js" target="content\Scripts\pickadate\translations\sv_SE.js" />
+        <file src="translations\th_TH.js" target="content\Scripts\pickadate\translations\th_TH.js" />
+        <file src="translations\tr_TR.js" target="content\Scripts\pickadate\translations\tr_TR.js" />
+        <file src="translations\uk_UA.js" target="content\Scripts\pickadate\translations\uk_UA.js" />
+        <file src="translations\zh_CN.js" target="content\Scripts\pickadate\translations\zh_CN.js" />
+        <file src="legacy.js" target="content\Scripts\pickadate\legacy.js" />
+        <file src="picker.date.js" target="content\Scripts\pickadate\picker.date.js" />
+        <file src="picker.js" target="content\Scripts\pickadate\picker.js" />
+        <file src="picker.time.js" target="content\Scripts\pickadate\picker.time.js" />
+    </files>
+</package>
