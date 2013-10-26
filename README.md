@@ -11,7 +11,7 @@ https://www.nuget.org/packages/pickadate
 
 ASP.Net Bundling & Minification
 ----------
-Scripts for date picker, time picker, or both.
+Scripts for date picker, time picker, or both
 
     bundles.Add(new ScriptBundle("~/bundles/pickadate/date").Include("~/Scripts/pickadate/picker.js", "~/Scripts/pickadate/picker.date.js"));
 
