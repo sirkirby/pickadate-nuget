@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>pickadate</id>
-        <version>3.3.0</version>
+        <version>3.3.2</version>
         <title>pickadate js</title>
         <authors>Amsul</authors>
         <owners>sirkirby</owners>
@@ -57,6 +57,7 @@
         <file src="translations\tr_TR.js" target="content\Scripts\pickadate\translations\tr_TR.js" />
         <file src="translations\uk_UA.js" target="content\Scripts\pickadate\translations\uk_UA.js" />
         <file src="translations\zh_CN.js" target="content\Scripts\pickadate\translations\zh_CN.js" />
+        <file src="translations\zh_TW.js" target="content\Scripts\pickadate\translations\zh_TW.js" />
         <file src="legacy.js" target="content\Scripts\pickadate\legacy.js" />
         <file src="picker.date.js" target="content\Scripts\pickadate\picker.date.js" />
         <file src="picker.js" target="content\Scripts\pickadate\picker.js" />
