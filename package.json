@@ -1,0 +1,35 @@
+{
+  "name": "pickadate-nuget",
+  "version": "3.4.0",
+  "description": "Public nuget package for pickadate javascript library.",
+  "author": "Chris Kirby",
+  "homepage": "https://github.com/sirkirby/pickadate-nuget",
+  "keywords": [
+    "nuget",
+    "pickadate",
+    "date",
+    "datepicker"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sirkirby/pickadate-nuget.git"
+  },
+  "bugs": "https://github.com/sirkirby/pickadate-nuget/issues",
+  "contributors": "https://github.com/sirkirby/pickadate-nuget/graphs/contributors",
+  "private": true,
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/sirkirby/pickadate-nuget/blob/master/LICENSE.txt"
+    }
+  ],
+  "dependencies": {},
+  "optionalDependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-shell": "~0.6.4",
+    "grunt-nuget": "~0.1.1"
+  }
+}
