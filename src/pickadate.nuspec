@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>pickadate</id>
-        <version>3.4.0</version>
+        <version>3.5.0</version>
         <title>pickadate.js</title>
         <authors>Amsul</authors>
         <owners>sirkirby</owners>
@@ -14,7 +14,7 @@
         <releaseNotes>https://github.com/amsul/pickadate.js/blob/gh-pages/CHANGELOG.md</releaseNotes>
         <tags>jquery date time picker input</tags>
         <dependencies>
-            <dependency id="jQuery" version="1.10.2" />
+            <dependency id="jQuery" version="1.7" />
         </dependencies>
     </metadata>
     <files>
@@ -47,6 +47,7 @@
         <file src="translations\it_IT.js" target="content\Scripts\pickadate\translations\it_IT.js" />
         <file src="translations\ja_JP.js" target="content\Scripts\pickadate\translations\ja_JP.js" />
         <file src="translations\ko_KR.js" target="content\Scripts\pickadate\translations\ko_KR.js" />
+        <file src="translations\ne_NP.js" target="content\Scripts\pickadate\translations\ne_NP.js" />
         <file src="translations\nl_NL.js" target="content\Scripts\pickadate\translations\nl_NL.js" />
         <file src="translations\no_NO.js" target="content\Scripts\pickadate\translations\no_NO.js" />
         <file src="translations\pl_PL.js" target="content\Scripts\pickadate\translations\pl_PL.js" />
