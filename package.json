@@ -1,6 +1,6 @@
 {
   "name": "pickadate-nuget",
-  "version": "3.4.0",
+  "version": "3.5.3",
   "description": "Public nuget package for pickadate javascript library.",
   "author": "Chris Kirby",
   "homepage": "https://github.com/sirkirby/pickadate-nuget",

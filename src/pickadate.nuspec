@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>pickadate</id>
-        <version>3.5.0</version>
+        <version>3.5.3</version>
         <title>pickadate.js</title>
         <authors>Amsul</authors>
         <owners>sirkirby</owners>
@@ -61,6 +61,7 @@
         <file src="translations\th_TH.js" target="content\Scripts\pickadate\translations\th_TH.js" />
         <file src="translations\tr_TR.js" target="content\Scripts\pickadate\translations\tr_TR.js" />
         <file src="translations\uk_UA.js" target="content\Scripts\pickadate\translations\uk_UA.js" />
+        <file src="translations\vi_VN.js" target="content\Scripts\pickadate\translations\vi_VN.js" />
         <file src="translations\zh_CN.js" target="content\Scripts\pickadate\translations\zh_CN.js" />
         <file src="translations\zh_TW.js" target="content\Scripts\pickadate\translations\zh_TW.js" />
         <file src="legacy.js" target="content\Scripts\pickadate\legacy.js" />
