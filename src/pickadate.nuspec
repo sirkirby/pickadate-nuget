@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>pickadate</id>
-        <version>3.5.4</version>
+        <version>3.5.5</version>
         <title>pickadate.js</title>
         <authors>Amsul</authors>
         <owners>sirkirby</owners>
@@ -40,6 +40,7 @@
         <file src="translations\fr_FR.js" target="content\Scripts\pickadate\translations\fr_FR.js" />
         <file src="translations\gl_ES.js" target="content\Scripts\pickadate\translations\gl_ES.js" />
         <file src="translations\he_IL.js" target="content\Scripts\pickadate\translations\he_IL.js" />
+        <file src="translations\hi_IN.js" target="content\Scripts\pickadate\translations\hi_IN.js" />
         <file src="translations\hr_HR.js" target="content\Scripts\pickadate\translations\hr_HR.js" />
         <file src="translations\hu_HU.js" target="content\Scripts\pickadate\translations\hu_HU.js" />
         <file src="translations\id_ID.js" target="content\Scripts\pickadate\translations\id_ID.js" />
@@ -47,6 +48,9 @@
         <file src="translations\it_IT.js" target="content\Scripts\pickadate\translations\it_IT.js" />
         <file src="translations\ja_JP.js" target="content\Scripts\pickadate\translations\ja_JP.js" />
         <file src="translations\ko_KR.js" target="content\Scripts\pickadate\translations\ko_KR.js" />
+        <file src="translations\lt_LT.js" target="content\Scripts\pickadate\translations\lt_LT.js" />
+        <file src="translations\lv_LV.js" target="content\Scripts\pickadate\translations\lv_LV.js" />
+        <file src="translations\nb_NO.js" target="content\Scripts\pickadate\translations\nb_NO.js" />
         <file src="translations\ne_NP.js" target="content\Scripts\pickadate\translations\ne_NP.js" />
         <file src="translations\nl_NL.js" target="content\Scripts\pickadate\translations\nl_NL.js" />
         <file src="translations\no_NO.js" target="content\Scripts\pickadate\translations\no_NO.js" />
