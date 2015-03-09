@@ -3,6 +3,9 @@
 pickadate js nuget package. For more info on the project, visit the main site http://amsul.ca/pickadate.js/
 
 ## Build ##
+
+![](http://build.ryantechframework.com/app/rest/builds/buildType:%28id:NugetPackages_PickADateNuget%29/statusIcon)
+
 Install the grunt cli tools
 
 `npm install -g grunt-cli`
