@@ -1,8 +1,13 @@
 # pickadate.js #
 
+[![Join the chat at https://gitter.im/sirkirby/pickadate-nuget](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sirkirby/pickadate-nuget?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 pickadate js nuget package. For more info on the project, visit the main site http://amsul.ca/pickadate.js/
 
 ## Build ##
+
+![](http://build.ryantechframework.com/app/rest/builds/buildType:%28id:NugetPackages_PickADateNuget%29/statusIcon)
+
 Install the grunt cli tools
 
 `npm install -g grunt-cli`
